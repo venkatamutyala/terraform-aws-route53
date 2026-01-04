@@ -18,7 +18,7 @@ trim_trailing_whitespace = true
 indent_size = 2
 indent_style = space
 
-[*.md]
+[*.md]sss
 max_line_length = 0
 trim_trailing_whitespace = false
 
